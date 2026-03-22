@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @dipankar2308 - Dipankar Sutradhar
-- 👀 I’m interested in Software Development on Mobile devices using Xamarin as a platform.
-- 🌱 I’m currently learning Microsoft Azure technologies and attempting to gather knowledge on how to utilize the several services available.
+# Hey, I'm Dipankar 👋
 
-- 📫 How to reach me - dipankar2308@gmail.com
+Senior Solutions Architect with 15+ years building enterprise platforms on Azure and Power Platform.
 
-<!---
-dipankar2308/dipankar2308 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## What I do
+- Design cloud-native systems using Clean Architecture, Hexagonal patterns, and event-driven microservices
+- Build internal developer platforms with reference architectures, security-hardened plugins, and compliance guardrails
+- Architect AI-ready systems — agentic services, LLM integration points, AI-assisted SDLC
+- Solve hard architecture problems across industries — energy, finance, HR, integrations
+
+## What you'll find here
+- 🏗️ [reference-architectures](https://github.com/dipankar-sutradhar/reference-architectures) — Enterprise templates: Clean/Hexagonal, Event-Driven, Hybrid Low-Code
+- 📐 Architecture Decision Records (ADRs) and C4 diagrams
+- 🔌 GitHub Copilot instructions tuned for Azure solution design
+
+## Stack I work in daily
+`Azure` `AKS` `Mongo DB` `Service Bus` `.NET 10` `Power Platform` `Azure OpenAI`
+
+## Patterns I care about
+Clean Architecture · Hexagonal (Ports & Adapters) · Event-Driven Microservices · Modular Monoliths · CQRS · Saga
+
+## Anti-patterns I actively fight
+Distributed monoliths · Shared databases · Chatty services · Anemic domain models
+
+---
+
+📍 Pune, India &nbsp;|&nbsp; 🔗 [LinkedIn](https://linkedin.com/in/dipankar-sutradhar) &nbsp;|&nbsp; ✉️ dipankar2308@gmail.com
